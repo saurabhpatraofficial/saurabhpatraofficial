@@ -3,9 +3,9 @@ Hi there 👋🏻
 
 I'm Saurabh! 👨🏻‍💻
 
-🔭 I'm currently working at **Cohesity**
-💬 Ask me about **Software and Automation Development**
-📫 How to reach me: LinkedIn - [@saurabhpatraofficial](https://linkedin.com/in/saurabhpatraofficial) | Instagram - [@mr.saurabhpatra](https://instagram.com/mr.saurabhpatra)
+🔭 I'm currently working at **Cohesity** <br>
+💬 Ask me about **Software and Automation Development** <br>
+📫 How to reach me: LinkedIn - [@saurabhpatraofficial](https://linkedin.com/in/saurabhpatraofficial) | Instagram - [@mr.saurabhpatra](https://instagram.com/mr.saurabhpatra) <br>
 ⚡ Fun fact: If I am not coding then I am probably roaming in Gaming-verse
 
 🌍 Official Website: [saurabhpatra.netlify.app](https://saurabhpatra.netlify.app)
